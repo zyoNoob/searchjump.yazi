@@ -13,7 +13,7 @@ https://github.com/DreamMaoMao/searchjump.yazi/assets/30348075/4a00eb39-211b-47c
 ### Linux
 
 ```bash
-git clone https://github.com/DreamMaoMao/searchjump.yazi.git ~/.config/yazi/plugins/searchjump.yazi
+git clone https://github.com/zyonoob/searchjump.yazi.git ~/.config/yazi/plugins/searchjump.yazi
 ```
 
 ### Windows
@@ -22,7 +22,7 @@ With `Powershell` :
 
 ```powershell
 if (!(Test-Path $env:APPDATA\yazi\config\plugins\)) {mkdir $env:APPDATA\yazi\config\plugins\}
-git clone https://github.com/DreamMaoMao/searchjump.yazi.git $env:APPDATA\yazi\config\plugins\searchjump.yazi
+git clone https://github.com/zyonoob/searchjump.yazi.git $env:APPDATA\yazi\config\plugins\searchjump.yazi
 ```
 
 ## Usage
